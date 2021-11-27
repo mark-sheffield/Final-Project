@@ -12,7 +12,8 @@
     Download: https://data.wprdc.org/dataset/5b18c198-474c-4723-b735-cc5220ad43cc/resource/dbf449e2-e8a1-41ce-941e-3b95041fd00c/download/contract-rent.csv
     On WPRDC site: https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/dbf449e2-e8a1-41ce-941e-3b95041fd00c
     
-* Mark's dataset - 
+* Mark's dataset - Pittsburgh Parking Meters and Payment Points - Pittsburgh Parking Authority
+    * Description: This dataset includes a row for each parking meter describing its exact location using latitude and longitude, its address on the street
 
 
 * Owen's dataset - 
