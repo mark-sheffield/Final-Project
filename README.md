@@ -13,9 +13,9 @@
     * On WPRDC site: https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/dbf449e2-e8a1-41ce-941e-3b95041fd00c
     
 * Mark's dataset - Pittsburgh Parking Meters and Payment Points - Pittsburgh Parking Authority
-    * Description: This dataset includes a row for each parking meter describing its exact location using latitude and longitude, its address on the street
-    * 
-    * 
+    * Description: This dataset includes a row for each parking meter describing its exact location using latitude and longitude, its address on the street, and what neighborhood it is within. Along with this dataset a shapefile is used which contains a Polygon for each neighborhood. Together, both of these are used to create a large graph of Pittsburgh where each active parking meter is ploted onto the map, allowing us to view which 
+    * Download: https://data.wprdc.org/datastore/dump/9ed126cc-3c06-496e-bd08-b7b6b14b4109
+    * On WPRDC site: https://data.wprdc.org/dataset/pittsburgh-parking-meters-and-payment-points/resource/9ed126cc-3c06-496e-bd08-b7b6b14b4109
 
 
 * Owen's dataset - Pittsburgh Police Incident Blotter (Archive)
