@@ -17,7 +17,6 @@
     * Download: https://data.wprdc.org/datastore/dump/9ed126cc-3c06-496e-bd08-b7b6b14b4109
     * On WPRDC site: https://data.wprdc.org/dataset/pittsburgh-parking-meters-and-payment-points/resource/9ed126cc-3c06-496e-bd08-b7b6b14b4109
 
-
 * Owen's dataset - Pittsburgh Police Incident Blotter (Archive)
     * Description: This dataset goes through police incidents that have been processed and vaildated in the city of Pittsburgh. This dataset contains data from Janurary 2016 to present day. The dataset contains a row for each incident and the neighborhood it was located in, as well as what type of incident it is. 
     * Download: https://data.wprdc.org/datastore/dump/044f2016-1dfd-4ab0-bc1e-065da05fca2e
